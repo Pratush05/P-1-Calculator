@@ -1,2 +1,2 @@
 # P-1-Calculator
-Calculator Using HTML,CSS,JS
+Make a Calculator Using Simple HTML, CSS and JS
